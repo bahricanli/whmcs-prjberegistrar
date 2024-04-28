@@ -1,1 +1,1 @@
-#prj.be domain registrar plugin
+# prj.be domain registry WHMCS registrar plugin
