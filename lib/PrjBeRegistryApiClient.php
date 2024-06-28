@@ -9,7 +9,7 @@ namespace PrjBeRegistry;
  */
 class PrjBeRegistryApiClient
 {
-    const API_URL = 'https://api.prj.be/1.0/';
+    const API_URL = 'https://api.nic.prj.be/1.0/';
 
     protected $results = array();
 
